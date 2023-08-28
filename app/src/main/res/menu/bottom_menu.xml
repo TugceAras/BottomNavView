@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/firstScreen"
+        android:icon="@drawable/home_icon"
+        app:showAsAction="ifRoom"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/secondScreen"
+        android:icon="@drawable/list_icon"
+        app:showAsAction="ifRoom"
+        android:title="List"/>
+
+    <item
+        android:id="@+id/thirdScreen"
+        android:icon="@drawable/fav_icon"
+        app:showAsAction="ifRoom"
+        android:title="Favorite"/>
+</menu>
