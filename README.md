@@ -23,3 +23,4 @@ binding.bottomNavView.itemActiveIndicatorColor = null
 ```
 
 bottomNavView --> Add whatever id you gave to your bottom navigation view. This is mine.
+MainActivity.kt is where I wrote this code
